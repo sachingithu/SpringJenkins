@@ -1,4 +1,4 @@
 package nit.service;
-public class IEmployeeService {
-
+public interface IEmployeeService {
+    public void save();
 }
