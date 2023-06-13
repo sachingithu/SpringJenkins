@@ -10,5 +10,6 @@ public class Employee {
     String address;
     String phone;
     String city;
+    String company;
 
 }
