@@ -9,6 +9,6 @@ public class Employee {
     String name;
     String address;
     String phone;
-
+    String city;
 
 }
